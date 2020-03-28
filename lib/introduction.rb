@@ -5,4 +5,5 @@ end
 introduction_with_language("Josh", "Ruby")
 
 def introduction(name)
-end
+  puts "Hi, my name is #{name}."
+end  
